@@ -2,6 +2,6 @@
 ## Grupo - 7
 ### Membros do grupo:
 - Izaias Nascimento
-- Mateus Bastos
+- Matheus Bastos
 - Wellington Martins
 - José Carlos
